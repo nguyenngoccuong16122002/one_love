@@ -8,6 +8,33 @@
 
 import { delay } from "./utils.js";
 
+
+/* =====================================================
+   HOLD DURATION
+
+   Longer lines need more time to actually be read, not
+   just displayed — scale the on-screen hold by word
+   count instead of using one flat duration for every
+   line.
+===================================================== */
+
+const HOLD_BASE = 2200;
+const HOLD_PER_WORD = 150;
+const HOLD_MIN = 2200;
+const HOLD_MAX = 4500;
+
+function getHoldDuration(wordCount) {
+
+  const raw =
+    HOLD_BASE + wordCount * HOLD_PER_WORD;
+
+  return Math.min(
+    HOLD_MAX,
+    Math.max(HOLD_MIN, raw)
+  );
+
+}
+
 async function showMessage(messageEl, text) {
 
   /*
@@ -64,10 +91,10 @@ async function showMessage(messageEl, text) {
 
 
   /*
-   * Stay on screen
+   * Stay on screen — longer for longer lines
    */
 
-  await delay(3000);
+  await delay(getHoldDuration(words.length));
 
 
   /*
