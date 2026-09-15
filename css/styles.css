@@ -13,6 +13,11 @@ body {
     width: 100%;
     height: 100%;
     overflow: hidden;
+    background:
+        radial-gradient(circle at center,
+            #421326 0%,
+            #1b0710 45%,
+            #050205 100%);
 }
 
 body {
