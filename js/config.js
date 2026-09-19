@@ -17,9 +17,14 @@ export const CONFIG = {
     "Nhớ chị",
     "Nghĩ về chị",
     "Muốn gặp chị",
+    "Muốn ở cạnh chị",
     "Chị thật đặc biệt",
-    "❤️",
-    "❤️",
+    "Thích chị cười",
+    "Thích những cuộc trò chuyện với chị",
+    "Thích nghe chị kể chuyện",
+    "Một chút nhớ",
+    "Một chút thương",
+    "Một chút thích",
     "❤️",
     "❤️",
     "❤️",
@@ -42,45 +47,49 @@ export const CONFIG = {
 
     "Em có một điều muốn nói với chị",
 
-    "Thật ra em đã để ý chị một thời gian rồi",
+    "Thật ra, em đã để ý chị một thời gian rồi",
 
-    "Ban đầu chỉ đơn giản là thấy chị dễ thương",
+    "Ban đầu chỉ đơn giản là vì em thấy chị dễ thương",
 
-    "Rồi em bắt đầu thích những cuộc trò chuyện giữa hai đứa",
+    "Rồi dần dần, em bắt đầu thích những cuộc trò chuyện giữa hai đứa",
 
-    "Thích những lúc được nghe chị kể chuyện",
+    "Thích nghe chị kể những chuyện nhỏ nhỏ trong ngày",
+
+    "Thích những lúc hai đứa nói chuyện với nhau mà chẳng cần một lý do đặc biệt",
 
     "Thích cả những khoảnh khắc rất bình thường khi có chị ở đó",
 
-    "Có những ngày chỉ một tin nhắn của chị cũng làm em vui hơn",
+    "Có những ngày, chỉ một tin nhắn của chị cũng đủ làm em vui hơn",
 
-    "Rồi em nhận ra mình bắt đầu mong chờ những điều nhỏ bé ấy",
+    "Rồi em nhận ra... em bắt đầu mong chờ những điều nhỏ bé ấy",
 
     "Mong được gặp chị",
 
     "Mong được nói chuyện với chị",
 
-    "Và đôi khi... chỉ đơn giản là muốn biết hôm nay chị thế nào",
+    "Đôi khi... chỉ đơn giản là muốn biết hôm nay chị thế nào",
 
-    "Em cũng không nhớ chính xác từ khi nào",
+    "Em cũng chẳng nhớ chính xác từ khi nào",
 
-    "Nhưng chị đã trở thành một người khá đặc biệt với em",
+    "Nhưng chị đã trở thành một người đặc biệt với em",
 
     "Em thích cảm giác khi ở cạnh chị",
 
-    "Tự nhiên, thoải mái và vui",
+    "Tự nhiên, thoải mái... và vui",
 
-    "Có lẽ vì vậy mà em muốn chúng ta gần nhau hơn một chút",
+    "Càng hiểu chị hơn, em càng muốn được ở gần chị hơn",
 
-    "Em không muốn cứ đoán xem cảm giác này sẽ đi đến đâu",
+    "Em không muốn cứ giữ cảm giác này trong lòng mãi",
 
-    "Nên em quyết định nói thẳng với chị",
+    "Nên em muốn nói thẳng với chị",
 
     "Em thích chị",
 
-    "Và em muốn thử cùng chị bước thêm một bước",
+    "Và em muốn nghiêm túc với cảm xúc này",
 
-    "Chị nghe em nhé..."
+    "Em muốn cùng chị bước thêm một bước",
+
+    "Nếu chị cũng muốn... mình thử nhé?"
 
   ],
 
@@ -94,7 +103,7 @@ export const CONFIG = {
    * Small text
    */
   finalSubtext:
-    "Em thích chị, và em muốn chúng ta có một câu chuyện của riêng mình."
+    "Em thích chị, và em muốn cùng chị bắt đầu một điều thật đẹp."
 
 };
 
@@ -121,3 +130,4 @@ export const AUDIO_CONFIG = {
   fadeDuration: 1500
 
 };
+
