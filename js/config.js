@@ -20,8 +20,8 @@ export const CONFIG = {
     "Muốn ở cạnh chị",
     "Chị thật đặc biệt",
     "Thích chị cười",
-    "Thích những cuộc trò chuyện với chị",
     "Thích nghe chị kể chuyện",
+    "Thích những lúc ở cạnh chị",
     "Một chút nhớ",
     "Một chút thương",
     "Một chút thích",
@@ -51,21 +51,25 @@ export const CONFIG = {
 
     "Ban đầu chỉ đơn giản là vì em thấy chị dễ thương",
 
-    "Rồi dần dần, em bắt đầu thích những cuộc trò chuyện giữa hai đứa",
+    "Rồi dần dần, em bắt đầu để ý đến những điều nhỏ nhỏ về chị",
 
-    "Thích nghe chị kể những chuyện nhỏ nhỏ trong ngày",
+    "Cách chị nói chuyện, cách chị cười, rồi cả những điều rất bình thường mà chị chẳng để ý",
 
-    "Thích những lúc hai đứa nói chuyện với nhau mà chẳng cần một lý do đặc biệt",
+    "Có những lúc em chẳng biết phải nói gì",
 
-    "Thích cả những khoảnh khắc rất bình thường khi có chị ở đó",
+    "Nhưng chỉ cần có chị ở đó, em vẫn thấy vui",
 
     "Có những ngày, chỉ một tin nhắn của chị cũng đủ làm em vui hơn",
 
-    "Rồi em nhận ra... em bắt đầu mong chờ những điều nhỏ bé ấy",
+    "Rồi em nhận ra...",
+
+    "Em bắt đầu mong chờ những điều nhỏ bé ấy",
 
     "Mong được gặp chị",
 
-    "Mong được nói chuyện với chị",
+    "Mong được ở gần chị",
+
+    "Mong những cuộc gặp của hai đứa sẽ lâu hơn một chút",
 
     "Đôi khi... chỉ đơn giản là muốn biết hôm nay chị thế nào",
 
@@ -77,19 +81,37 @@ export const CONFIG = {
 
     "Tự nhiên, thoải mái... và vui",
 
-    "Càng hiểu chị hơn, em càng muốn được ở gần chị hơn",
+    "Và càng ở cạnh chị, em càng nhận ra...",
 
-    "Em không muốn cứ giữ cảm giác này trong lòng mãi",
+    "Em không chỉ thích những khoảnh khắc có chị",
 
-    "Nên em muốn nói thẳng với chị",
+    "Em bắt đầu thích chính cảm giác được có chị trong cuộc sống của mình",
+
+    "Em vốn không phải là người giỏi nói ra những điều mình nghĩ",
+
+    "Nên có những điều em đã giữ trong lòng khá lâu",
+
+    "Đã có lúc em nghĩ... hay cứ giữ như vậy cũng được",
+
+    "Nhưng em sợ nếu không nói ra, sau này em sẽ tiếc",
+
+    "Nên hôm nay, em muốn một lần nói thật với chị",
 
     "Em thích chị",
 
-    "Và em muốn nghiêm túc với cảm xúc này",
+    "Không phải chỉ là một cảm xúc thoáng qua",
 
-    "Em muốn cùng chị bước thêm một bước",
+    "Mà là cảm xúc em thật sự muốn cho một cơ hội",
 
-    "Nếu chị cũng muốn... mình thử nhé?"
+    "Muốn cùng chị bước thêm một bước",
+
+    "Không biết sau bước này chúng ta sẽ đi đến đâu...",
+
+    "Nhưng nếu chị cũng có một chút cảm giác giống em",
+
+    "Nếu chị cũng muốn biết chúng ta có thể trở thành gì của nhau...",
+
+    "Thì mình thử nhé?"
 
   ],
 
@@ -103,7 +125,7 @@ export const CONFIG = {
    * Small text
    */
   finalSubtext:
-    "Em thích chị, và em muốn cùng chị bắt đầu một điều thật đẹp."
+    "Em không biết tương lai sẽ thế nào, nhưng em muốn thử cùng chị."
 
 };
 
